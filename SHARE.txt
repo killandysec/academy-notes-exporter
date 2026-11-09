@@ -1,0 +1,5 @@
+I packaged the reusable prompt, script and guide here:
+
+https://github.com/killandysec/academy-notes-exporter
+
+Start with README.md. PROMPT.md has the cleaned-up reproduction prompt. Copy academy-notes-exporter.txt into your signed-in course session, enter your path ID, and choose your own vault root. Walkthroughs appear beneath matching lessons; accessible images are saved locally.

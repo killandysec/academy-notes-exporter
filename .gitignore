@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/
+.env
+.env.*
+node_modules/
+exports/
+private/
+*.zip
